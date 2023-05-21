@@ -46,3 +46,6 @@ learning rate(alpha): 0.001
 ############################################################################################
 
 **->Kindly change the path of the dataset in the load data function in order to run the files.**  
+Note: To print test result or accuracy kindly print the return values recieved in parameter accu, res  
+1.) accu contains the test accuracy given by our model  
+2.) res contains all the predicted labels  
